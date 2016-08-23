@@ -7,6 +7,6 @@
 ###		1. Intro to basics
 ### 	2. Vectors
 ### 	3. Matrices
-### 	3. Factors
-### 	4. Data frames
-### 	5. Lists
+### 	4. Factors
+### 	5. Data frames
+### 	6. Lists
